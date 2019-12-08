@@ -1,0 +1,24 @@
+{
+  "name": "auto-video-maker",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao desenvolvimento do projeto video-maker seguindo os tutorias disponibilizados pelo Felipe Deschamps",
+  "main": "index.js",
+  "dependencies": {
+    "nvm": "^0.0.4",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luansantos25/auto-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luansantos25/auto-video-maker/issues"
+  },
+  "homepage": "https://github.com/luansantos25/auto-video-maker#readme"
+}
