@@ -4,7 +4,8 @@
   "description": "Repositório destinado ao desenvolvimento do projeto video-maker seguindo os tutorias disponibilizados pelo Felipe Deschamps",
   "main": "index.js",
   "dependencies": {
-    "nvm": "^0.0.4"
+    "nvm": "^0.0.4",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
   "scripts": {
